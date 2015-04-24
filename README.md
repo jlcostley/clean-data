@@ -1,5 +1,7 @@
 
 
+This file describes the input data and the function developed to meet the requirements for the course project for the Coursera "Getting and Cleaning Data" course.
+
 ## Introduction
 
 This function summarizes data from the "Human Activity Recognition Using Smartphones Data Set"

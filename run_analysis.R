@@ -1,4 +1,4 @@
-run_analysis <- function()
+run_analysis <- function() {
 
 # read in the files which have been loaded into the active directory
 training.data <- read.table("Xtrain.txt")
@@ -69,7 +69,7 @@ colnames(subdata) <- labels
 
 write.table(subdata,file="data.txt",row.name=FALSE)
 write.table(actdata,file="data.txt",row.name=FALSE,col.names=FALSE,append=TRUE)
-
+}
 # this can be used to check the output file to confirm it worked
 # check <-read.table("data.txt",header=TRUE)
 # View(check)

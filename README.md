@@ -37,8 +37,8 @@ The researchers chose to keep the data in several files including separate files
 codes. The data columns are not labeled with descriptive names. The training data and test data are also separated.
 
 The function run_analysis.R:
-1) creates an integrated data file including all of the data (both test and training) and adds activity names and 
 
+1) creates an integrated data file including all of the data (both test and training) and adds activity names and 
 descriptive column names as well as a column identifying the subjects (volunteers).  
 
 2) Selects the mean [mean()] and standard deviation [std()] measurements from the integrated data file

@@ -1,6 +1,6 @@
 
 
-This file describes the input data and the function developed to meet the requirements for the course project for the Coursera "Getting and Cleaning Data" course.
+This file describes the provides an overview of the origins of the data used in, and the function developed to meet the requirements of, the course project for the Coursera "Getting and Cleaning Data" course.  
 
 ## Introduction
 

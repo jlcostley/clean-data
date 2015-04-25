@@ -66,7 +66,8 @@ The complete list of variables of each feature vector is available in 'features.
 
 A set of variables that were estimated from these signals. Only the mean value and standard 
 deviation variables are relevant for this exercise; the remainder were discarded during 
-data preparation: 
+data preparation:
+
 	mean(): Mean value
 	std(): Standard deviation
 
@@ -98,6 +99,7 @@ mean and standard deviation measurements by subject and activity.
 
 ###Row names
 There are two types of row names:
+
 	Activity names from the source file "activity_labels" (6 rows)
 	Subject IDs from the "subject_" files (20 rows) 
 

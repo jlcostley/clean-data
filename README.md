@@ -28,6 +28,9 @@ descriptive column names as well as a column identifying the subjects (volunteer
 
 3) averages these for each activity and each subject
 
-4) produces a .txt file with the results [data.txt]
+4) produces a .txt file with the results [data.txt] in a tidy data format, that is it mets the following principles:
+  - the data columns have identifiers
+  - the columns are unique
+  - every row is one (summary) observation
 
 These steps are further detailed in comments found in the run_analysis.R file.  
